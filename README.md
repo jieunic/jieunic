@@ -2,7 +2,6 @@
 - 👀 I’m interested in python programming and eating 
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on python project 
-- 📫 How to reach me instagram @tmdwk.01
 - Help me to find something new in python 
 
 <!---
